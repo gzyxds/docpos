@@ -350,34 +350,13 @@ export default defineConfig({
               link: "/new/3"
             },
             {
-              text: "POS机刷卡不到账",
+              text: "0.38%费率POS机",
               link: "/new/4"
             },
             {
-              text: "POS机代理怎么做",
-              link: "/new/5"
-            },
-            {
-              text: "POS机代理哪家靠谱",
-              link: "/new/6"
-            },
-            {
-              text: "POS机总部直签",
-              link: "/new/7"
-            },
-            {
-              text: "POS机代理骗局",
-              link: "/new/8"
-            },
-            {
-              text: "POS机二级代理",
-              link: "/new/9"
-            },
-            {
-              text: "手机POS机安全吗",
+              text: "POS机安全",
               link: "/new/5"
             }
-
           ]
         }
       ]
