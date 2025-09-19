@@ -166,6 +166,10 @@ export default defineConfig({
               text: "操作指南",
               link: "/merch/index"
             }
+            {
+              text: "联系客服",
+              link: "/merch/contact"
+            },
           ]
         },
         {

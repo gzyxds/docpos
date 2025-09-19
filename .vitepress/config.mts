@@ -79,15 +79,15 @@ export default defineConfig({
           items: [
             {
               text: "✨常见问题",
-              link: "/help/runtime"
+              link: "/help/faq"
             },
             {
               text: "🎨推广文案",
-              link: "/help/Setup"
+              link: "/help/wn"
             },
             {
               text: "🔧 推广海报",
-              link: "/help/cli"
+              link: "/help/hb"
             },
             {
               text: "📝 平台奖励",
@@ -165,6 +165,10 @@ export default defineConfig({
             {
               text: "操作指南",
               link: "/merch/index"
+            },
+            {
+              text: "联系客服",
+              link: "/merch/contact"
             }
           ]
         },
