@@ -9,7 +9,7 @@
   </div>
 
   <div class="qrcode-card">
-    <img src="/images/qqq.png" alt="代理加盟" class="qrcode-image">
+    <img src="/images/wx.png" alt="代理加盟" class="qrcode-image">
     <div class="qrcode-content">
       <h3>代理加盟</h3>
       <p>银盛/拉卡拉/中付/乐刷代理政策</p>
@@ -24,6 +24,7 @@
     </div>
   </div>
 
+
   <div class="qrcode-card">
     <img src="/images/gzh.jpg" alt="POS机办理官网" class="qrcode-image">
     <div class="qrcode-content">
@@ -31,7 +32,34 @@
       <p>扫码关注获取最新费率政策</p>
     </div>
   </div>
+
+  <div class="qrcode-card">
+    <img src="/.vitepress/images/万能商户.png" alt="万能商户" class="qrcode-image">
+    <div class="qrcode-content">
+      <h3>万能商户</h3>
+      <p>扫码下载万能商户APP</p>
+    </div>
+  </div>
+
+  <div class="qrcode-card">
+    <img src="/.vitepress/images/联拓宝代理商.png" alt="联拓宝代理商" class="qrcode-image">
+    <div class="qrcode-content">
+      <h3>联拓宝代理商</h3>
+      <p>扫码加入联拓宝代理商</p>
+    </div>
+  </div>
+
+  <div class="qrcode-card">
+    <img src="/.vitepress/images/讯易通.png" alt="讯易通" class="qrcode-image">
+    <div class="qrcode-content">
+      <h3>讯易通</h3>
+      <p>代理APP下载</p>
+    </div>
+  </div>
 </div>
+
+
+
 
 <style>
 .qrcode-container {
