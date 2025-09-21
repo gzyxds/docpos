@@ -574,20 +574,11 @@ export default defineConfig({
       // 启用代码分割
       rollupOptions: {
         output: {
-          manualChunks: {
-            'vendor': ['vue'],
-            'utils': ['lodash-es']
-          }
+          // VitePress会自动处理代码分割
         }
       },
       // 启用压缩
-      minify: 'terser',
-      terserOptions: {
-        compress: {
-          drop_console: true,
-          drop_debugger: true
-        }
-      }
+      minify: true
     },
     // 优化依赖预构建
     optimizeDeps: {
