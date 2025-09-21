@@ -504,7 +504,7 @@ export default defineConfig({
     lastmodDateOnly: false
   },
   cacheDir: "./.vitepress/cache",
-  titleTemplate: "POS支付网_电签POS机_手机POS办理_商户收款码_聚合支付服务平台",
+  // titleTemplate: "POS支付网_电签POS机_手机POS办理_商户收款码_聚合支付服务平台",
   lang: "zh-CN",
   base: "/",
   outDir: "./.vitepress/dist",
