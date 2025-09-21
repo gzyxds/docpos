@@ -69,7 +69,7 @@ export default defineConfig({
             },
             {
               text: "🏅联系我们",
-              link: "/help/shop"
+              link: "/merch/contact"
             }
           ]
         },
