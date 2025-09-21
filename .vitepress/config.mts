@@ -17,11 +17,11 @@ export default defineConfig({
     socialLinks: [
       {
         icon: "github",
-        link: "https://github.com/gzyxds/PaYphp"
+        link: "https://posnfc.cn/"
       }
     ],
     editLink: {
-      pattern: "https://github.com/gzyxds/PaYphp",
+      pattern: "https://posnfc.cn/",
       text: "编辑本页"
     },
     nav: [
