@@ -1,3 +1,43 @@
+---
+# SEO优化的页面标题
+title: POS支付教程中心 - 银盛/拉卡拉/中付/乐刷设备使用指南
+
+# 页面描述
+description: 专业的POS支付设备使用教程中心，提供银盛、拉卡拉、中付、乐刷等品牌电签POS、大POS、智能屏、码牌、贴纸等设备的详细操作指南和使用教程
+
+# SEO meta标签
+meta:
+  - name: keywords
+    content: POS机教程,POS机使用指南,银盛POS教程,拉卡拉POS教程,中付POS教程,乐刷POS教程,电签POS使用,大POS操作,智能屏教程,码牌使用,POS设备指南,收款设备教程,移动支付教程
+  - name: description
+    content: 专业的POS支付设备使用教程中心，提供银盛、拉卡拉、中付、乐刷等品牌电签POS、大POS、智能屏、码牌、贴纸等设备的详细操作指南和使用教程
+  - name: author
+    content: POS支付网
+  - name: robots
+    content: index,follow
+  - property: og:title
+    content: POS支付教程中心 - 银盛/拉卡拉/中付/乐刷设备使用指南 | POS支付网
+  - property: og:description
+    content: 专业的POS支付设备使用教程，涵盖电签POS、大POS、智能屏、码牌等设备的详细操作指南
+  - property: og:type
+    content: website
+  - property: og:url
+    content: https://posnfc.cn/merch/
+  - property: og:image
+    content: https://posnfc.cn/logo.svg
+  - name: twitter:card
+    content: summary_large_image
+  - name: twitter:title
+    content: POS支付教程中心 - 设备使用指南
+  - name: twitter:description
+    content: 专业的POS支付设备使用教程，涵盖电签POS、大POS、智能屏、码牌等设备的详细操作指南
+
+# 页面优先级（用于sitemap）
+sitemap:
+  priority: 0.9
+  changefreq: weekly
+---
+
 # POS支付教程中心
 
 欢迎来到POS支付教程中心，这里提供了全面的POS支付设备使用指南和教程。我们支持多种品牌的POS设备，包括电签版、大POS、智能屏、码牌、贴纸等多种类型。

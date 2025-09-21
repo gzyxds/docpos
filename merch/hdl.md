@@ -1,3 +1,49 @@
+---
+# SEO优化的页面标题
+title: 海多财电签(循环版)使用教程 - 银盛/中付/海科多品牌支持
+
+# 页面描述
+description: 海多财电签(循环版)详细使用教程，支持银盛、中付、海科多品牌，包含账号注册、设备激活、操作指引等完整教程，提供视频教学和图文说明
+
+# SEO meta标签
+meta:
+  - name: keywords
+    content: 海多财电签,循环版POS,银盛POS,中付POS,海科POS,电签POS教程,POS机激活,账号注册,设备操作,多品牌POS,智能电签
+  - name: description
+    content: 海多财电签(循环版)详细使用教程，支持银盛、中付、海科多品牌，包含账号注册、设备激活、操作指引等完整教程，提供视频教学和图文说明
+  - name: author
+    content: POS支付网
+  - name: robots
+    content: index,follow
+  - property: og:title
+    content: 海多财电签(循环版)使用教程 - 银盛/中付/海科多品牌支持 | POS支付网
+  - property: og:description
+    content: 详细的海多财电签使用教程，支持多品牌，包含完整的操作指引和视频教学
+  - property: og:type
+    content: article
+  - property: og:url
+    content: https://posnfc.cn/merch/hdl
+  - property: og:image
+    content: https://posnfc.cn/logo.svg
+  - name: twitter:card
+    content: summary_large_image
+  - name: twitter:title
+    content: 海多财电签(循环版)使用教程
+  - name: twitter:description
+    content: 详细的海多财电签使用教程，支持多品牌，包含完整的操作指引和视频教学
+
+# 页面优先级（用于sitemap）
+sitemap:
+  priority: 0.7
+  changefreq: weekly
+
+# 文章类型标记
+article:
+  type: tutorial
+  category: 电签设备
+  tags: [海多财, 电签POS, 银盛, 中付, 海科, 教程]
+---
+
 # 海多财电签(循环版)
 
 # 智能屏（循环版）支持银盛、中付、海科多品牌

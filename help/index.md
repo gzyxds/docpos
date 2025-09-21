@@ -1,3 +1,43 @@
+---
+# SEO优化的页面标题
+title: 帮助中心 - POS机办理指南与常见问题解答
+
+# 页面描述
+description: POS支付网帮助中心，提供POS机办理指南、代理加盟政策、常见问题解答、技术支持等服务。银联正规认证，费率优惠，激活返现，专业客服7*24小时在线服务
+
+# SEO meta标签
+meta:
+  - name: keywords
+    content: POS机帮助中心,POS机办理指南,代理加盟,常见问题,技术支持,POS机客服,银联认证,费率优惠,激活返现,POS机政策,办理流程
+  - name: description
+    content: POS支付网帮助中心，提供POS机办理指南、代理加盟政策、常见问题解答、技术支持等服务。银联正规认证，费率优惠，激活返现，专业客服7*24小时在线服务
+  - name: author
+    content: POS支付网
+  - name: robots
+    content: index,follow
+  - property: og:title
+    content: 帮助中心 - POS机办理指南与常见问题解答 | POS支付网
+  - property: og:description
+    content: 提供POS机办理指南、代理加盟政策、常见问题解答、技术支持等服务，专业客服7*24小时在线
+  - property: og:type
+    content: website
+  - property: og:url
+    content: https://posnfc.cn/help/
+  - property: og:image
+    content: https://posnfc.cn/logo.svg
+  - name: twitter:card
+    content: summary_large_image
+  - name: twitter:title
+    content: 帮助中心 - POS机办理指南与常见问题解答
+  - name: twitter:description
+    content: 提供POS机办理指南、代理加盟政策、常见问题解答、技术支持等服务
+
+# 页面优先级（用于sitemap）
+sitemap:
+  priority: 0.8
+  changefreq: monthly
+---
+
 <img src="/logo.svg" alt="POS支付网 Logo" width="200" height="200">
 
 
