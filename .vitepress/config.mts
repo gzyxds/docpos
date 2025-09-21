@@ -119,11 +119,11 @@ export default defineConfig({
       },
       {
         text: "领取设备", // 使用简洁的emoji图标配合文字
-        link: "https://merch.PaYphp.cn/"
+        link: "https://www.posnfc.cn/new"
       },
       {
         text: "POS官网", // 使用简洁的emoji图标配合文字
-        link: "https://PaYphp.cn/"
+        link: "https://www.posnfc.cn/"
       },
       {
         text: "新闻资讯", // 使用简洁的emoji图标配合文字
@@ -131,7 +131,7 @@ export default defineConfig({
       },
       {
         text: "联系客服", // 使用简洁的emoji图标配合文字
-        link: "https://qm.qq.com/q/l8HDomqX4I"
+        link: "/merch/contact"
       }
     ],
 
