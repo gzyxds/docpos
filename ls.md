@@ -53,18 +53,19 @@ hero:
   actions:
     - theme: brand
       text: 乐刷POS办理
-
+      link: /merch/contact
 
     - theme: brand
       text: 乐刷MPOS申请
-
+      link: /merch/contact
 
     - theme: alt
       text: 乐刷收款码办理
-
+      link: /merch/contact
 
     - theme: alt
       text: 乐刷官网下载
+      link: /merch/contact
 
 
 

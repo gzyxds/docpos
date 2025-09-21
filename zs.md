@@ -49,15 +49,16 @@ hero:
   image:
     src: /logo.svg
     alt: POS机代理加盟
+    link: /merch/contact
 
   actions:
     - theme: brand
       text: 立即加盟
-      link: /agent
+      link: /merch/contact
 
     - theme: alt
       text: 代理政策
-      link: /policy
+      link: /merch/contact
 
 
 

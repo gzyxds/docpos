@@ -53,18 +53,22 @@ hero:
   actions:
     - theme: brand
       text: 手机POS下载
+      link: /merch/contact
 
 
     - theme: brand
       text: 手机POS申请
+      link: /merch/contact
 
 
     - theme: alt
       text: 手机POS刷卡
+      link: /merch/contact
 
 
     - theme: alt
       text: 手机POS软件
+      link: /merch/contact
 
 
 

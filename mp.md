@@ -53,11 +53,11 @@ hero:
   actions:
     - theme: brand
       text: 免费申请
-      link: /dq
+      link: /merch/contact
 
     - theme: alt
       text: 了解详情
-      link: /zs
+      link: /merch/contact
 
 
 

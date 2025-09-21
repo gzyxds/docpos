@@ -53,18 +53,19 @@ hero:
   actions:
     - theme: brand
       text: POS办理
-
+      link: /merch/contact
 
     - theme: brand
       text: POS机申请
-
+      link: /merch/contact
 
     - theme: alt
       text: 收款码办理
-
+      link: /merch/contact
 
     - theme: alt
       text: 拉卡拉APP
+      link: /merch/contact
 
 
 

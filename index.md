@@ -53,18 +53,19 @@ hero:
   actions:
     - theme: brand
       text: 电签POS机办理
-
+      link: /merch/contact
 
     - theme: brand
       text: 智能POS机申请
-
+      link: /merch/contact
 
     - theme: alt
       text: 码牌收款办理
-
+      link: /merch/contact
 
     - theme: alt
-      text: 手机POS机下载
+      text: 代理加盟
+      link: /merch/contact
 
 
 

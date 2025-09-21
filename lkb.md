@@ -53,18 +53,20 @@ hero:
   actions:
     - theme: brand
       text: 联拓宝下载
-
+      link: /merch/contact
 
     - theme: brand
       text: 联拓宝申请
+      link: /merch/contact
 
 
     - theme: alt
       text: 联拓宝App
-
+      link: /merch/contact
 
     - theme: alt
       text: 联拓宝官网
+      link: /merch/contact
 
 
 

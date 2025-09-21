@@ -49,22 +49,27 @@ hero:
   image:
     src: /logo.svg
     alt: pos机官网
+    link: /merch/contact
 
   actions:
     - theme: brand
       text: pos机办理下载
+      link: /merch/contact
 
 
     - theme: brand
       text: 智能收银终端申请
+      link: /merch/contact
 
 
     - theme: alt
       text: 移动收款
+      link: /merch/contact
 
 
     - theme: alt
       text: 刷脸支付设备
+      link: /merch/contact
 
 
 

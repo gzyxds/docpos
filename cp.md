@@ -53,18 +53,21 @@ hero:
   actions:
     - theme: brand
       text: 传统POS下载
-
+      link: /merch/contact
 
     - theme: brand
       text: 智能POS申请
+      link: /merch/contact
 
 
     - theme: alt
       text: 云音箱扫码
+      link: /merch/contact
 
 
     - theme: alt
       text: SAAS收银机
+      link: /merch/contact
 
 
 

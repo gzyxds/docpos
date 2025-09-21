@@ -53,11 +53,11 @@ hero:
   actions:
     - theme: brand
       text: 立即办理
-      link: /dq
+      link: /merch/contact
 
     - theme: alt
       text: 办理流程
-      link: /zs
+      link: /merch/contact
 
 
 
