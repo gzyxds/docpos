@@ -36,7 +36,7 @@ export default defineConfig({
       {
         text: "帮助中心", // 使用简洁的emoji图标配合文字
         link: "/help/index"
-      },     
+      },
       {
         text: "领取设备", // 使用简洁的emoji图标配合文字
         link: "https://merch.PaYphp.cn/"
@@ -79,15 +79,15 @@ export default defineConfig({
           items: [
             {
               text: "✨常见问题",
-              link: "/help/runtime"
+              link: "/help/faq"
             },
             {
               text: "🎨推广文案",
-              link: "/help/Setup"
+              link: "/help/wn"
             },
             {
               text: "🔧 推广海报",
-              link: "/help/cli"
+              link: "/help/hb"
             },
             {
               text: "📝 平台奖励",
@@ -165,11 +165,11 @@ export default defineConfig({
             {
               text: "操作指南",
               link: "/merch/index"
-            }
+            },
             {
               text: "联系客服",
               link: "/merch/contact"
-            },
+            }
           ]
         },
         {
@@ -311,7 +311,7 @@ export default defineConfig({
             }
           ]
         },
-        
+
         {
           text: "🍵友情连接",
           collapsed: false,
@@ -354,13 +354,34 @@ export default defineConfig({
               link: "/new/3"
             },
             {
-              text: "0.38%费率POS机",
+              text: "POS机刷卡不到账",
               link: "/new/4"
             },
             {
-              text: "POS机安全",
+              text: "POS机代理怎么做",
+              link: "/new/5"
+            },
+            {
+              text: "POS机代理哪家靠谱",
+              link: "/new/6"
+            },
+            {
+              text: "POS机总部直签",
+              link: "/new/7"
+            },
+            {
+              text: "POS机代理骗局",
+              link: "/new/8"
+            },
+            {
+              text: "POS机二级代理",
+              link: "/new/9"
+            },
+            {
+              text: "手机POS机安全吗",
               link: "/new/5"
             }
+
           ]
         }
       ]
@@ -479,7 +500,7 @@ export default defineConfig({
   srcDir: "./",
   assetsDir: "static",
   sitemap: {
-    hostname: "https://PaYphp.cn",
+    hostname: "https://posnfc.cn",
     lastmodDateOnly: false
   },
   cacheDir: "./.vitepress/cache",

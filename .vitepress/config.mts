@@ -4,95 +4,15 @@ export default defineConfig({
   ignoreDeadLinks: true,
   title: "POS支付网",
   description: "【POS支付网】专业POS机办理平台，提供银盛、拉卡拉、中付、乐刷等品牌智能收银终端、移动收款设备、刷脸支付设备办理服务。支持电签POS机、手机POS、码牌收款、商户收款码等多种支付方式，银联正规认证，费率优惠，激活返现。提供数字经营、聚合支付、在线pos刷卡等全方位支付解决方案",
-
-  // SEO优化配置
   head: [
-    // 基础SEO meta标签
-    ['meta', { name: 'keywords', content: 'POS机办理,pos机官网,POS机支付网,pos支付网,POS网站,银盛POS机,拉卡拉POS机,中付POS机,乐刷POS机,银联正规pos机办理,智能收银终端,移动收款设备,刷脸支付设备,电签POS机,信用卡POS机,手机POS,智能终端,移动收银设备,刷卡POS机,码牌收款,商户收款码,收钱码,聚合码牌,移动收款,pos收单,支付服务,数字经营,智能设备,pos业务,在线pos刷卡,posapp下载,手机POS下载,拉卡拉pos机怎么办理,点刷pos官网下载手机版,pos圈支付网,posapp下载刷卡pos机' }],
-    ['meta', { name: 'author', content: 'POS支付网' }],
-    ['meta', { name: 'robots', content: 'index,follow' }],
-    ['meta', { name: 'googlebot', content: 'index,follow' }],
-    ['meta', { name: 'bingbot', content: 'index,follow' }],
-
-    // 网站验证标签（需要替换为实际的验证码）
-    ['meta', { name: 'google-site-verification', content: 'your-google-verification-code' }],
-    ['meta', { name: 'msvalidate.01', content: 'your-bing-verification-code' }],
-    ['meta', { name: 'baidu-site-verification', content: 'your-baidu-verification-code' }],
-
-    // Open Graph标签（社交媒体分享）
-    ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:site_name', content: 'POS支付网' }],
-    ['meta', { property: 'og:title', content: 'POS支付网 - 专业POS机办理平台' }],
-    ['meta', { property: 'og:description', content: '专业POS机办理平台，提供银盛、拉卡拉、中付、乐刷等品牌智能收银终端办理服务，银联正规认证，费率优惠，激活返现' }],
-    ['meta', { property: 'og:url', content: 'https://posnfc.cn' }],
-    ['meta', { property: 'og:image', content: 'https://posnfc.cn/logo.svg' }],
-    ['meta', { property: 'og:image:width', content: '1200' }],
-    ['meta', { property: 'og:image:height', content: '630' }],
-    ['meta', { property: 'og:locale', content: 'zh_CN' }],
-
-    // Twitter Cards标签
-    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-    ['meta', { name: 'twitter:site', content: '@POS支付网' }],
-    ['meta', { name: 'twitter:title', content: 'POS支付网 - 专业POS机办理平台' }],
-    ['meta', { name: 'twitter:description', content: '专业POS机办理平台，提供银盛、拉卡拉、中付、乐刷等品牌智能收银终端办理服务' }],
-    ['meta', { name: 'twitter:image', content: 'https://posnfc.cn/logo.svg' }],
-
-    // 移动端优化
-    ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' }],
-    ['meta', { name: 'format-detection', content: 'telephone=no' }],
-    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black-translucent' }],
-    ['meta', { name: 'apple-mobile-web-app-title', content: 'POS支付网' }],
-
-    // 网站图标
-    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }],
-    ['link', { rel: 'apple-touch-icon', href: '/logo.svg' }],
-    ['link', { rel: 'mask-icon', href: '/logo.svg', color: '#5bbad5' }],
-
-    // DNS预解析和预连接
-    ['link', { rel: 'dns-prefetch', href: '//fonts.googleapis.com' }],
-    ['link', { rel: 'dns-prefetch', href: '//www.google-analytics.com' }],
-    ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
-
-    // 结构化数据 - 组织信息
-    ['script', { type: 'application/ld+json' }, JSON.stringify({
-      "@context": "https://schema.org",
-      "@type": "Organization",
-      "name": "POS支付网",
-      "url": "https://posnfc.cn",
-      "logo": "https://posnfc.cn/logo.svg",
-      "description": "专业POS机办理平台，提供银盛、拉卡拉、中付、乐刷等品牌智能收银终端办理服务",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "contactType": "customer service",
-        "url": "https://qm.qq.com/q/l8HDomqX4I"
-      },
-      "sameAs": [
-        "https://github.com/gzyxds/PaYphp"
-      ]
-    })],
-
-    // 结构化数据 - 网站信息
-    ['script', { type: 'application/ld+json' }, JSON.stringify({
-      "@context": "https://schema.org",
-      "@type": "WebSite",
-      "name": "POS支付网",
-      "url": "https://posnfc.cn",
-      "description": "专业POS机办理平台，提供银盛、拉卡拉、中付、乐刷等品牌智能收银终端办理服务",
-      "potentialAction": {
-        "@type": "SearchAction",
-        "target": "https://posnfc.cn/search?q={search_term_string}",
-        "query-input": "required name=search_term_string"
-      }
-    })]
+    ['meta', { name: 'keywords', content: 'POS机办理,pos机官网,POS机支付网,pos支付网,POS网站,银盛POS机,拉卡拉POS机,中付POS机,乐刷POS机,银联正规pos机办理,智能收银终端,移动收款设备,刷脸支付设备,电签POS机,信用卡POS机,手机POS,智能终端,移动收银设备,刷卡POS机,码牌收款,商户收款码,收钱码,聚合码牌,移动收款,pos收单,支付服务,数字经营,智能设备,pos业务,在线pos刷卡,posapp下载,手机POS下载,拉卡拉pos机怎么办理,点刷pos官网下载手机版,pos圈支付网,posapp下载刷卡pos机' }]
   ],
 
   themeConfig: {
     siteTitle: "POS支付网", // 禁用网站标题显示，只显示logo
     logo: "/logo.svg", // logo图片地址
-    lastUpdated: {
-      text: "最后更新"
-    },
+    lastUpdated: true,
+    lastUpdatedText: "最后更新",
     sidebarMenuLabel: "目录",
     socialLinks: [
       {
@@ -119,11 +39,11 @@ export default defineConfig({
       },
       {
         text: "领取设备", // 使用简洁的emoji图标配合文字
-        link: "https://www.posnfc.cn/new"
+        link: "https://merch.PaYphp.cn/"
       },
       {
         text: "POS官网", // 使用简洁的emoji图标配合文字
-        link: "https://www.posnfc.cn/"
+        link: "https://PaYphp.cn/"
       },
       {
         text: "新闻资讯", // 使用简洁的emoji图标配合文字
@@ -131,7 +51,7 @@ export default defineConfig({
       },
       {
         text: "联系客服", // 使用简洁的emoji图标配合文字
-        link: "/merch/contact"
+        link: "https://qm.qq.com/q/l8HDomqX4I"
       }
     ],
 
@@ -471,6 +391,7 @@ export default defineConfig({
       message: "赣ICP备2023002309号-8",
       copyright: "© 2024 PaYphp. 保留所有权利。"
     },
+    prev: "上一篇",
     returnToTopLabel: "返回顶部",
     outline: {
       label: "本页目录", // 右侧大纲标题的中文显示
@@ -483,31 +404,83 @@ export default defineConfig({
       options: {
         locales: {
           zh: {
+            placeholder: "搜索文档",
             translations: {
               button: {
                 buttonText: "搜索文档",
                 buttonAriaLabel: "搜索文档"
               },
               modal: {
+                searchBox: {
+                  resetButtonTitle: "清除查询条件",
+                  resetButtonAriaLabel: "清除查询条件",
+                  cancelButtonText: "取消",
+                  cancelButtonAriaLabel: "取消"
+                },
+                startScreen: {
+                  recentSearchesTitle: "搜索历史",
+                  noRecentSearchesText: "没有搜索历史",
+                  saveRecentSearchButtonTitle: "保存至搜索历史",
+                  removeRecentSearchButtonTitle: "从搜索历史中移除",
+                  favoriteSearchesTitle: "收藏",
+                  removeFavoriteSearchButtonTitle: "从收藏中移除"
+                },
+                errorScreen: {
+                  titleText: "无法获取结果",
+                  helpText: "你可能需要检查你的网络连接"
+                },
                 footer: {
                   selectText: "选择",
                   navigateText: "切换",
-                  closeText: "关闭"
+                  closeText: "关闭",
+                  searchByText: "搜索提供者"
+                },
+                noResultsScreen: {
+                  noResultsText: "无法找到相关结果",
+                  suggestedQueryText: "你可以尝试查询",
+                  reportMissingResultsText: "你认为该查询应该有结果？",
+                  reportMissingResultsLinkText: "点击反馈"
                 }
               }
             }
           },
           en: {
+            placeholder: "Search docs",
             translations: {
               button: {
                 buttonText: "Search docs",
                 buttonAriaLabel: "Search docs"
               },
               modal: {
+                searchBox: {
+                  resetButtonTitle: "Clear query",
+                  resetButtonAriaLabel: "Clear query",
+                  cancelButtonText: "Cancel",
+                  cancelButtonAriaLabel: "Cancel"
+                },
+                startScreen: {
+                  recentSearchesTitle: "Recent searches",
+                  noRecentSearchesText: "No recent searches",
+                  saveRecentSearchButtonTitle: "Save search",
+                  removeRecentSearchButtonTitle: "Remove search",
+                  favoriteSearchesTitle: "Favorites",
+                  removeFavoriteSearchButtonTitle: "Remove from favorites"
+                },
+                errorScreen: {
+                  titleText: "Unable to fetch results",
+                  helpText: "You may want to check your network connection"
+                },
                 footer: {
                   selectText: "select",
                   navigateText: "navigate",
-                  closeText: "close"
+                  closeText: "close",
+                  searchByText: "Search by"
+                },
+                noResultsScreen: {
+                  noResultsText: "No results for",
+                  suggestedQueryText: "You can try searching for",
+                  reportMissingResultsText: "You think it should have results?",
+                  reportMissingResultsLinkText: "Click here to report it"
                 }
               }
             }
@@ -526,122 +499,31 @@ export default defineConfig({
   },
   srcDir: "./",
   assetsDir: "static",
-  // SEO优化的sitemap配置
   sitemap: {
-    hostname: "https://doc.posnfc.cn",
-    lastmodDateOnly: false,
-    transformItems: (items) => {
-      // 为sitemap添加优先级和更新频率
-      return items.map((item) => ({
-        ...item,
-        changefreq: item.url === '/' ? 'daily' :
-                   item.url.includes('/merch/') ? 'weekly' :
-                   item.url.includes('/help/') ? 'monthly' : 'weekly',
-        priority: item.url === '/' ? 1.0 :
-                 item.url.includes('/merch/') ? 0.8 :
-                 item.url.includes('/help/') ? 0.6 : 0.7
-      }))
-    }
+    hostname: "https://posnfc.cn",
+    lastmodDateOnly: false
   },
-
-  // 缓存配置
   cacheDir: "./.vitepress/cache",
-
-  // SEO友好的标题模板
-  titleTemplate: ":title【POS支付网】",
-
-  // 语言和地区设置
+  titleTemplate: "POS支付网_电签POS机_手机POS办理_商户收款码_聚合支付服务平台",
   lang: "zh-CN",
-
-  // 基础路径
   base: "/",
-
-  // 输出目录
   outDir: "./.vitepress/dist",
-
-  // 启用干净的URL（SEO友好）
   cleanUrls: true,
-
-  // URL重写规则（SEO友好的URL结构）
   rewrites: {
     "packages/pkg-a/src/pkg-a-docs.md": "pkg-a/index.md",
     "packages/pkg-b/src/pkg-b-docs.md": "pkg-b/index.md"
   },
-
-  // 性能优化配置
-  vite: {
-    build: {
-      // 启用代码分割
-      rollupOptions: {
-        output: {
-          // VitePress会自动处理代码分割
-        }
-      },
-      // 启用压缩
-      minify: true
-    },
-    // 优化依赖预构建
-    optimizeDeps: {
-      include: ['vue', '@vueuse/core']
-    }
-  },
-
-  // Markdown配置优化
+  // VitePress 2.0 新增配置
   markdown: {
     theme: 'material-theme-palenight',
-    lineNumbers: true,
-    // 启用代码块的复制功能
-    config: (md) => {
-      // 可以在这里添加markdown插件
-    }
+    lineNumbers: true
   },
-
-  // Vue配置
   vue: {
     template: {
       compilerOptions: {
         isCustomElement: tag => tag.includes('-')
       }
     }
-  },
-
-  // 添加transformHead函数来动态设置canonical URL
-  transformHead: ({ pageData }) => {
-    const head: any[] = []
-
-    // 添加canonical URL
-    const canonicalUrl = `https://posnfc.cn${pageData.relativePath.replace(/\.md$/, '.html').replace(/index\.html$/, '')}`
-    head.push(['link', { rel: 'canonical', href: canonicalUrl }] as const)
-
-    // 根据页面类型添加特定的meta标签
-    if (pageData.frontmatter.title) {
-      head.push(['meta', { property: 'og:title', content: `${pageData.frontmatter.title} - POS支付网` }] as const)
-      head.push(['meta', { name: 'twitter:title', content: `${pageData.frontmatter.title} - POS支付网` }] as const)
-    }
-
-    if (pageData.frontmatter.description) {
-      head.push(['meta', { property: 'og:description', content: pageData.frontmatter.description }] as const)
-      head.push(['meta', { name: 'twitter:description', content: pageData.frontmatter.description }] as const)
-    }
-
-    // 添加页面特定的结构化数据
-    if (pageData.relativePath.includes('merch/')) {
-      const structuredData = {
-        "@context": "https://schema.org",
-        "@type": "HowTo",
-        "name": pageData.frontmatter.title || "POS机使用教程",
-        "description": pageData.frontmatter.description || "详细的POS机操作指南",
-        "url": canonicalUrl,
-        "publisher": {
-          "@type": "Organization",
-          "name": "POS支付网",
-          "url": "https://posnfc.cn"
-        }
-      }
-      head.push(['script', { type: 'application/ld+json' }, JSON.stringify(structuredData)] as const)
-    }
-
-    return head
   }
 });
 
