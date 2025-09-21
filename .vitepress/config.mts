@@ -508,7 +508,7 @@ export default defineConfig({
   lang: "zh-CN",
   base: "/",
   outDir: "./.vitepress/dist",
-  cleanUrls: false,
+  cleanUrls: true,
   rewrites: {
     "packages/pkg-a/src/pkg-a-docs.md": "pkg-a/index.md",
     "packages/pkg-b/src/pkg-b-docs.md": "pkg-b/index.md"
