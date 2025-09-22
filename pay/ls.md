@@ -74,6 +74,10 @@ features:
   - title: 📱乐刷电签POS
     details: 乐刷科技电签版POS机，4G网络，0.38%费率，支持信用卡、花呗、云闪付，激活返现299元，个人/商户均可申请
 
+  - title: 相关服务链接
+    details: 查看更多POS机相关服务：[电签POS机](/pay/dq) | [智能POS终端](/pay/zn) | [拉卡拉POS机](/pay/lkl) | [手机POS机](/pay/pos) | [POS机办理指南](/pay/bl) | [码牌台卡](/pay/cp) | [聚合收款](/pay/hy) | [官方网推荐](/pay/gw) | [小微商户收款](/pay/xw) | [聚合支付服务](/pay/index)
+    icon: 🔗
+
 
   - title: 💻乐刷MPOS
     details: 乐刷移动POS终端，支持多种支付方式，乐刷MPOS智能设备，功能强大，适合各类商户场景
