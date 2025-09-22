@@ -67,9 +67,6 @@ features:
     details: 银盛支付官方授权代理商，提供电签POS机、智能POS机、手机POS等多种收款设备，费率低至0.38%，支持信用卡、花呗等多种支付方式。
     icon: 📱
 
-  - title: 相关服务链接
-    details: 查看更多POS机相关服务：[电签POS机](/pay/dq) | [智能POS终端](/pay/zn) | [拉卡拉POS机](/pay/lkl) | [乐刷POS机](/pay/ls) | [手机POS机](/pay/pos) | [POS机办理指南](/pay/bl) | [码牌台卡](/pay/cp) | [聚合收款](/pay/hy) | [小微商户收款](/pay/xw) | [聚合支付服务](/pay/index)
-    icon: 🔗
 
   - title: 拉卡拉官网
     details: 拉卡拉官网知名第三方支付品牌，拉卡拉支付服务覆盖全国，POS支付网官网重点推荐品牌。
