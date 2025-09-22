@@ -1,4 +1,4 @@
-# 联系客服
+## 联系客服
 <div class="qrcode-container">
   <div class="qrcode-card">
     <img src="/images/qq.png" alt="POS机办理咨询" class="qrcode-image">
@@ -32,7 +32,18 @@
       <p>扫码关注获取最新费率政策</p>
     </div>
   </div>
+</div>
 
+## 代理商APP注册下载
+<div class="qrcode-container">
+  <div class="qrcode-card">
+    <img src="/.vitepress/images/联拓宝代理商.png" alt="联拓宝代理商" class="qrcode-image">
+    <div class="qrcode-content">
+      <h3>联拓宝代理商</h3>
+      <p>扫码加入联拓宝代理商</p>
+    </div>
+  </div>
+  
   <div class="qrcode-card">
     <img src="/.vitepress/images/万能商户.png" alt="万能商户" class="qrcode-image">
     <div class="qrcode-content">
@@ -42,21 +53,23 @@
   </div>
 
   <div class="qrcode-card">
-    <img src="/.vitepress/images/联拓宝代理商.png" alt="联拓宝代理商" class="qrcode-image">
-    <div class="qrcode-content">
-      <h3>联拓宝代理商</h3>
-      <p>扫码加入联拓宝代理商</p>
-    </div>
-  </div>
-
-  <div class="qrcode-card">
     <img src="/.vitepress/images/讯易通.png" alt="讯易通" class="qrcode-image">
     <div class="qrcode-content">
       <h3>讯易通</h3>
       <p>代理APP下载</p>
+      <p>好哒慧掌柜</p>
+    </div>
+  </div>
+  
+  <div class="qrcode-card">
+    <img src="/.vitepress/images/拉卡拉.png" alt="拉卡拉代理" class="qrcode-image">
+    <div class="qrcode-content">
+      <h3>拉卡拉代理</h3>
+      <p>扫码加入拉卡拉代理</p>
     </div>
   </div>
 </div>
+
 
 
 
@@ -148,3 +161,5 @@
   }
 }
 </style>
+
+
