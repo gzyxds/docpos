@@ -54,69 +54,99 @@ hero:
     - theme: brand
       text: 电签POS机办理
       link: /merch/contact
-
+      
     - theme: brand
       text: 智能POS机申请
       link: /merch/contact
-
+      
     - theme: alt
       text: 码牌收款办理
       link: /merch/contact
-
+      
     - theme: alt
       text: 代理加盟
       link: /merch/contact
-
-
-
-
+      linkText: 免费领取
+      
 features:
   - title: 📱电签POS机
     details: 银盛/拉卡拉/中付/乐刷电签版POS机，4G网络，0.38%费率，支持信用卡、花呗、云闪付，激活返现299元，个人/商户均可申请
-
+    link: /pay/dq
+    linkText: 免费领取
+    
 
   - title: 💻智能POS机
     details: 安卓智能POS终端，支持多种支付方式，银盛/拉卡拉/中付/乐刷智能POS机，功能强大，适合各类商户场景
-
+    link: /pay/zn
+    linkText: 免费领取
+    
 
   - title: 📱手机POS机
     details: 手机POS软件，无需硬件设备，银盛/拉卡拉/中付/乐刷手机POS，安全可靠，费率低至0.38%，支持信用卡刷卡
-
+    link: /pay/mpos
+    linkText: 免费领取
+    
 
   - title: 📋码牌收款
     details: 聚合码牌、商户码牌、静态码牌，银盛/拉卡拉/中付/乐刷码牌收款，支持微信支付宝，无营业执照也能申请
-
+    link: /pay/mp
+    linkText: 免费领取
+    
 
   - title: 🏦银盛支付
     details: 银盛POS机办理，银盛电签版，银盛智能POS，银盛码牌收款，0.38%费率，总部直签，激活返现
+    link: /pay/
+    linkText: 免费领取
+    
 
 
   - title: 💳拉卡拉POS
     details: 拉卡拉POS机官网，拉卡拉电签POS，拉卡拉收款码，拉卡拉代理加盟，费率0.38%，商户通APP下载
+    link: /pay/lkl
+    linkText: 免费领取
+    
 
 
   - title: 💰中付支付
     details: 中付POS机办理，中付电签版，中付智能POS，中付收款码，中付代理政策，费率低，激活返现
+    link: /pay/zc
+    linkText: 免费领取
+    
 
 
   - title: 📱乐刷POS
     details: 乐刷POS机官网，乐刷电签版，乐刷收款码，乐刷代理，乐刷APP下载，乐刷费率，激活返现政策
+    link: /pay/ls
+    linkText: 免费领取
+      
 
 
   - title: 💸0.38%费率
     details: 全网最低费率0.38%，永不+3，银盛/拉卡拉/中付/乐刷POS机，资金秒到，安全可靠，支持多种支付方式
+    link: /pay/
+    linkText: 免费领取
+      
 
 
   - title: 🎁激活返现
     details: 激活一台返现299元，银盛/拉卡拉/中付/乐刷总部直签，分润万12，代理政策优惠，支持个人/商户申请
+    link: /pay/zn
+    linkText: 免费领取
+      
 
 
   - title: 🔒资金安全
     details: 正规一清POS机，央行支付牌照，银联认证，资金安全有保障，T+1/D+1结算，24小时专业客服
+    link: /pay/zn
+    linkText: 免费领取
+      
 
 
   - title: 🚚顺丰包邮
     details: 当天申请，当天发货，顺丰包邮到家，银盛/拉卡拉/中付/乐刷POS机，免费领取，无营业执照也能办理
+    link: /pay/zn
+    linkText: 免费领取
+      
 
 ---
 

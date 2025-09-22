@@ -73,67 +73,107 @@ hero:
 features:
   - title: 📱电签POS机
     details: 银盛/拉卡拉/中付/乐刷电签版POS机，4G网络，0.38%费率，支持信用卡、花呗、云闪付，激活返现299元，个人/商户均可申请
+    link: /pay/dq
+    linkText: 免费领取
 
 
   - title: 💻智能POS机
     details: 安卓智能POS终端，支持多种支付方式，银盛/拉卡拉/中付/乐刷智能POS机，功能强大，适合各类商户场景
+    link: /pay/zn
+    linkText: 免费领取
+
 
 
   - title: 📱手机POS机
     details: 手机POS软件，无需硬件设备，银盛/拉卡拉/中付/乐刷手机POS，安全可靠，费率低至0.38%，支持信用卡刷卡
+    link: /pay/mpos
+    linkText: 免费领取
+
 
 
   - title: 📋码牌收款
     details: 聚合码牌、商户码牌、静态码牌，银盛/拉卡拉/中付/乐刷码牌收款，支持微信支付宝，无营业执照也能申请
+    link: /pay/mp
+    linkText: 免费领取
+
 
 
   - title: 🏦银盛支付
     details: 银盛POS机办理，银盛电签版，银盛智能POS，银盛码牌收款，0.38%费率，总部直签，激活返现
+    link: /pay/mp
+    linkText: 免费领取
 
 
   - title: 💳拉卡拉POS
     details: 拉卡拉POS机官网，拉卡拉电签POS，拉卡拉收款码，拉卡拉代理加盟，费率0.38%，商户通APP下载
+    link: /pay/jh
+    linkText: 免费领取
+
 
 
   - title: 💰中付支付
     details: 中付POS机办理，中付电签版，中付智能POS，中付收款码，中付代理政策，费率低，激活返现
+    link: /pay/jh
+    linkText: 免费领取
+
 
 
   - title: 📱乐刷POS
     details: 乐刷POS机官网，乐刷电签版，乐刷收款码，乐刷代理，乐刷APP下载，乐刷费率，激活返现政策
+    link: /pay/jh
+    linkText: 免费领取
+  
 
 
   - title: 💸0.38%费率
     details: 全网最低费率0.38%，永不+3，银盛/拉卡拉/中付/乐刷POS机，资金秒到，安全可靠，支持多种支付方式
+    link: /pay/mp
+    linkText: 免费领取
 
 
   - title: 🎁激活返现
     details: 激活一台返现299元，银盛/拉卡拉/中付/乐刷总部直签，分润万12，代理政策优惠，支持个人/商户申请
+    link: /pay/mp
+    linkText: 免费领取
 
 
   - title: 🔒资金安全
     details: 正规一清POS机，央行支付牌照，银联认证，资金安全有保障，T+1/D+1结算，24小时专业客服
+    link: /pay/mp
+    linkText: 免费领取
 
 
   - title: 📱刷脸支付设备
     details: 银盛/拉卡拉/中付/乐刷刷脸支付设备，蜻蜒人脸识别系统，支持无感支付，安全便捷，适合各类商户场景，提升客户支付体验
+    link: /pay/mp
+    linkText: 免费领取
 
 
   - title: 📋经典POS收银台
     details: 银盛/拉卡拉/中付/乐刷经典POS收银台，稳定可靠，支持多种支付方式，适合传统商户升级，自助POS收银系统，操作简单
+    link: /pay/mp
+    linkText: 免费领取
 
 
   - title: 🔊扫码盒子与音箱
     details: 银盛/拉卡拉/中付/乐刷扫码盒子、一体式音箱、分体音箱，收款播报清晰，支付状态实时提醒，提升商户收款效率
+    link: /pay/mp
+    linkText: 免费领取
+
 
 
   - title: 🏪传统POS设备
     details: 银盛/拉卡拉/中付/乐刷传统POS机，稳定耐用，适合各类商户场景，支持刷卡、插卡、挥卡等多种支付方式，操作简便
+    link: /pay/mp
+    linkText: 免费领取
+
 
 
   - title: 📲手机收款服务
     details: 银盛/拉卡拉/中付/乐刷手机收款服务，无需额外硬件，手机即可完成收款，支持信用卡、借记卡，费率低至0.38%，安全可靠
-    
+    link: /pay/mp
+    linkText: 免费领取
+
 
 ---
 
